@@ -5,8 +5,7 @@ namespace WinFormsApp1
         public Form1()
         {
             InitializeComponent();
-            // Sua file de tao conflict
-            //dev fix
+            // Sua dong nay de tao conflict
         }
     }
 }
