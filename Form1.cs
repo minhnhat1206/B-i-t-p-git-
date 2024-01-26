@@ -5,6 +5,7 @@ namespace WinFormsApp1
         public Form1()
         {
             InitializeComponent();
+            // Tao conflict o day ne
         }
     }
 }
