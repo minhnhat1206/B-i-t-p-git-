@@ -6,6 +6,7 @@ namespace WinFormsApp1
         {
             InitializeComponent();
             // Sua file de tao conflict
+            //dev fix
         }
     }
 }
